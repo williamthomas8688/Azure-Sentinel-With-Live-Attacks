@@ -43,4 +43,43 @@ View Incoming attacks
 <br />
 
 
+<p align="center">
+<img src="https://i.imgur.com/wXQ2E9s.png" alt="Creation Of Log Anlytics"/>
 
+</p>
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/fY6saLg.png" alt="Creation Of VM"/>
+
+</p>
+<br />
+
+
+<p align="center">
+<img src="https://i.imgur.com/jcCzVRI.png" alt="Remote into VM and get Free API Geo"/>
+
+</p>
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/La4ymmc.png" alt="After Adding geting free GEO IP Location, run custom Powershell scpit"/>
+
+</p>
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/limyQWr.png" alt="Save failed logons and upload them into workspace"/>
+
+</p>
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/Tf56FtU.png" alt="Upload saved workbook and create map"/>
+
+</p>
+<br />
+
+
+# Go Here to get custom powershell code 
+("https://github.com/joshmadakor1/Sentinel-Lab/tree/main")
