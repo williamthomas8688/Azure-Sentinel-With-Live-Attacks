@@ -37,7 +37,7 @@ View Incoming attacks
 <h2>Deployment</h2>
 
 <p align="center">
-<img src="[https://imgur.com/a/9cdmO3Q](https://i.imgur.com/mtGtpC5.png)" alt="Creation Of Resource Group"/>
+<img src="https://i.imgur.com/mtGtpC5.png" alt="Creation Of Resource Group"/>
 
 </p>
 <br />
